@@ -1,0 +1,39 @@
+*{
+    margin: auto;
+}
+nav{
+    background-color: black;
+    
+    
+}
+a{
+    
+    color: aliceblue;
+    font-size: 20px;
+    
+    
+}
+ul{
+    display: flex;
+    
+    
+}
+li{
+    color: aliceblue;
+    margin: 20px;
+    
+    
+}
+footer{
+    background-color: black;
+}
+
+.copyright{
+    color: antiquewhite;
+    margin: 20px;
+    text-align: center;
+}
+.a{
+    color: aliceblue;
+    
+}
